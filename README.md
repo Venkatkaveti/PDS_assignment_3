@@ -1,6 +1,5 @@
 # PDS_assignment_3
 TwitterSentimentAnalysis
-SentimentAnalysis Using NLP
 
 created by : Sai Venkat Kaveti     16332069
 
